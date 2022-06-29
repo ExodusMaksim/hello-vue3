@@ -4,7 +4,7 @@
 
 <script lang="ts">
 import { defineComponent, onMounted, ref } from 'vue'
-import Child from "@cp/Child.vue"
+import Child from '@cp/Child.vue'
 
 export default defineComponent({
   components: {
