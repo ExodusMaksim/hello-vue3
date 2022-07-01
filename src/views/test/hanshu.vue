@@ -50,3 +50,8 @@ export default defineComponent({
   },
 })
 </script>
+<style module>
+.msg {
+  font-size: 14px;
+}
+</style>
